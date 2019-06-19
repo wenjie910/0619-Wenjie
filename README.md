@@ -2,12 +2,12 @@
 Tips for organizing research
 
 # Name?
-- Wenjie Zhu
+- Xiaoyan Xu
 
 # What kind of Scientist?
--Ophthalmology Ph.D. Students, MD
+-Immunologist
 
 # 3 experiments you have done recently?
-- Flow Cytometry
-- qPCR
-- ELISA
+- TCR sequencing
+- Aniaml inoculation with commensal
+- Flow cytometry
